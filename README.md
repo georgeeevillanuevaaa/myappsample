@@ -1,2 +1,2 @@
 #MyApp
-This is my app
+Sample repo used for a Git & Github tutorial with Git bash
